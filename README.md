@@ -49,7 +49,7 @@ e compare a aba de erros com a tabela para entender o comportamento de cada uma.
 - [Manual de instruções (PDF)](docs/Manual_Instrucoes_Validar_Registro.pdf)
 - [Escopo do sistema](docs/Escopo_do_Sistema.md)
 - [Código VBA](src/)
-- ![Imagens](image/)
+- [Imagens](image/)
 
 ## Feedback
 Sugestões e problemas são bem-vindos em [Issues](../../issues) ou no meu
